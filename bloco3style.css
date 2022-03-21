@@ -1,0 +1,11 @@
+* {
+    padding: 0;
+    margin: 0;
+    background-color: lemonchiffon;
+}
+
+.button {
+    font-weight: bold;
+    line-height: 2;
+    color: black;
+}
