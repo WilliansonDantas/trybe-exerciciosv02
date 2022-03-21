@@ -9,3 +9,11 @@
     line-height: 2;
     color: black;
 }
+
+.negrito {
+    font-weight: bold;
+}
+
+.espacamento {
+    line-height: 2;
+}
